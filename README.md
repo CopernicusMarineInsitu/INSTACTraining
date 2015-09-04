@@ -1,2 +1,3 @@
 # OceanData_NoteBooks
-Examples of processing of data from netCDF using Python.
+Examples of data processing with python notebooks using netCDF files.
+
