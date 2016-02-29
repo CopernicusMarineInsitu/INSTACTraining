@@ -1,8 +1,16 @@
 # CMEMS INSTAC NoteBooks
 
+Contains the materal for the training courses organised in the frame of the In Situ component of the Copernicus Marine Environment Monitoring Service ([CMEMS](http://marine.copernicus.eu/)).
+
+## presentations
+
+Supports (pdf or ppt) used during the previous training sessions.
+
+## PythonNotebooks
+
 Provides examples of data processing with [ipython notebooks](http://ipython.org/notebook.html) (or [Jupyter notebook](http://jupyter.org/)) using [netCDF](http://www.unidata.ucar.edu/software/netcdf/) files.
 
-Most of the examples used data obtained from the [Copernicus Marine Environment Monitoring Service](http://marine.copernicus.eu/).
+Most of the examples used data obtained from [CMEMS](http://marine.copernicus.eu/).
 
 * Read_TimeSeries_1.ipynb: load variables from a local netCDF file.
 * Read_TimeSeries_2.ipynb: load variables from a file available in a [thredds data server](http://www.unidata.ucar.edu/software/thredds/current/tds/)
