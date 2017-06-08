@@ -13,8 +13,8 @@ For non-interactive download see next PythonNotebooks section.
 
 ## Presentations
 <img align="left" src="./images/insitutac.png" width="300"> 
-Presentations used during the previous training sessions.All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc). Particulary useful to check different NetCDF tools are La Spezia and Lisboa presentations.
 <img align="left" src="./images/ibi.png " width="300"> 
+Presentations used during the previous training sessions.All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc). Particulary useful to check different NetCDF tools are La Spezia and Lisboa presentations.
 * [Mediterranean](./Presentations/CMEMS_INSTAC_Med_Training.pdf): La Spezia, 3-4 December 2015  
 * [Iberia, Biscay & Ireland](https://www.youtube.com/watch?v=b7LMgMWgjCM): Lisboa, 10-11 December 2015.
 * [Global](https://www.youtube.com/watch?v=X75BrPQB4YM): Touluse, November 2016
@@ -54,7 +54,8 @@ Contains the materal for the training courses organised in the frame of the In S
 <img src="images/mooring.png" width="300">
 <br>
 <br>
-
+<br>
+<br>
 - In situ dataset processing examples:
 	* time series:
 		* [Read_TimeSeries_1.ipynb](./PythonNotebooks/PlatformPlots/Read_TimeSeries_1.ipynb): load variables from a local netCDF file.
