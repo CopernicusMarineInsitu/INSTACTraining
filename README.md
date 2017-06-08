@@ -12,7 +12,8 @@ For non-interactive download see next PythonNotebooks section.
 [Useful info](./tips/README.md)
 
 ## Presentations
-
+<img align="rigth" src="./images/insitutac.png" width="300"> 
+<img align="rigth" src="./images/ibi.png " width="300"> 
 Presentations used during the previous training sessions.All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc). Particulary useful to check different NetCDF tools are La Spezia and Lisboa presentations.
 
 * [Mediterranean](./Presentations/CMEMS_INSTAC_Med_Training.pdf): La Spezia, 3-4 December 2015  
@@ -20,14 +21,14 @@ Presentations used during the previous training sessions.All presentations inclu
 * [Global](https://www.youtube.com/watch?v=X75BrPQB4YM): Touluse, November 2016
 * [Artic & Baltic regions](http://www.socib.es/users/protllan/CMEMS/reveal.js-master): Oslo, 1st&2nd June 2017 
 
-<img src="./images/insitutac.png" width="300"> 
-<img align="rigth" src="./images/ibi.png " width="300"> 
+
 
 ## PythonNotebooks
 
 Contains the materal for the training courses organised in the frame of the In Situ component of the Copernicus Marine Environment Monitoring Service ([CMEMS](http://marine.copernicus.eu/)). Examples of data downloading and processing with [ipython notebooks](http://ipython.org/notebook.html) (or [Jupyter notebook](http://jupyter.org/)) using [netCDF](http://www.unidata.ucar.edu/software/netcdf/) files:
 
 - Index file as cheatsheet examples:
+    <br>
     <img align="left" src="images/indexFileNavBB.png" width="300">
 	* [index_file_donwload.ipynb](./PythonNotebooks/indexFileNavigation/index_file_donwload.ipynb): how to download via ftp index files
 	* [index_file_navigation_boundingbox.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_boundingbox.ipynb): how to download via ftp index files and use them to find all platforms contained within a given boundingbox.
@@ -38,8 +39,8 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [read_CMEMS_indexfile.ipynb](./PythonNotebooks/IndexFilePlots/read_CMEMS_indexfile.ipynb): latest Mediterranean platforms location.
 	* [plot_positions_latest_global.ipynb](./PythonNotebooks/plot_positions_latest_global.ipynb): latest Global platforms location.
 <img align="left" src="images/folium.png" width="300">
-<img src="images/locationsMED.png" width="500">
-<img src="images/global.png" width="500">
+<img src="images/locationsMED.png" width="400">
+<img src="images/global.png" width="600">
 
 - In situ dataset plots examples:
 	* [plot_CMEMS_mooring_NorthWestShelf.ipynb](./PythonNotebooks/PlatformPlots/plot_CMEMS_mooring_NorthWestShelf.ipynb): plots of mooring data
@@ -50,8 +51,8 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [plot_CMEMS_drifter.ipynb](./PythonNotebooks/PlatformPlots/plot_CMEMS_drifter.ipynb): plots of drifters data
 <img align="left" src="images/drifter.png" width="300">
 <img src="images/vessel.png" width="300">
-<img src="images/profiler.png" width="300">
-<img align="right" src="images/mooring.png" width="300">
+<img align="left" src="images/profiler.png" width="300">
+<img src="images/mooring.png" width="300">
 
 
 - In situ dataset processing examples:
@@ -61,17 +62,18 @@ Contains the materal for the training courses organised in the frame of the In S
 		* [Read_TimeSeries_3.ipynb](./PythonNotebooks/PlatformPlots/Read_TimeSeries_3.ipynb): use the [cf-module](http://cfpython.bitbucket.org/) to load a variable knowing its [CF standard name](http://cfconventions.org/standard-names.html).
     <img align="left" src="images/timeSeries1.png" width="300">
     <img src="images/timeSeries2.png" width="300">
-    <br>    
-	 * trajectories:
-		* [Read_drifter_data_1.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_1.ipynb): read a netCDF file containing a surface drifter trajectory.
-		* [Read_drifter_data_2.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_2.ipynb): scatter plot using the data from the previous example.
-		* [Read_drifter_data_3.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_3.ipynb): creation of a gridded field using the same data.
-    <img align="left" src="images/drifter1.png" width="300">
-    <img src="images/drifter2.png" width="300">
-    <img src="images/drifter3.png" width="300">
+    <br>
+    
+    * trajectories:
+        * [Read_drifter_data_1.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_1.ipynb): read a netCDF file containing a surface drifter trajectory.
+        * [Read_drifter_data_2.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_2.ipynb): scatter plot using the data from the previous example.
+        * [Read_drifter_data_3.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_3.ipynb): creation of a gridded field using the same data.
+    <img align="left" src="images/drifter1.png" width="200">
+    <img align="left" src="images/drifter2.png" width="200">
+    <img src="images/drifter3.png" width="200">
 
 	* grided data:
-		* Salinity from CORA [dataset](./PythonNotebooks/PlatformPlots/Read_CORA_dataset.ipynb)
+		* Salinity from [CORA dataset](./PythonNotebooks/PlatformPlots/Read_CORA_dataset.ipynb)
 <img src="images/cora.png" width="500">      
 
 - In situ WMS - latest directory (work in progress)
