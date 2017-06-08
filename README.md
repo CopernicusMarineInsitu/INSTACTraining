@@ -13,14 +13,11 @@ For non-interactive download see next PythonNotebooks section.
 
 ## Presentations
 Presentations used during the previous training sessions.All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc). Particulary useful to check different NetCDF tools are La Spezia and Lisboa presentations.
-
+<img align="right" src="./images/ibi.png " width="300"> 
 * [Mediterranean](./Presentations/CMEMS_INSTAC_Med_Training.pdf): La Spezia, 3-4 December 2015  
 * [Iberia, Biscay & Ireland](https://www.youtube.com/watch?v=b7LMgMWgjCM): Lisboa, 10-11 December 2015.
 * [Global](https://www.youtube.com/watch?v=X75BrPQB4YM): Touluse, November 2016
 * [Artic & Baltic regions](http://www.socib.es/users/protllan/CMEMS/reveal.js-master): Oslo, 1st&2nd June 2017 
-
-<img align="left" src="./images/insitutac.png" width="300"> 
-<img align="right" src="./images/ibi.png " width="300"> 
 
 
 ## PythonNotebooks
@@ -53,6 +50,8 @@ Contains the materal for the training courses organised in the frame of the In S
 <img src="images/vessel.png" width="300">
 <img align="left" src="images/profiler.png" width="300">
 <img src="images/mooring.png" width="300">
+<br>
+<br>
 <br>
 <br>
 <br>
