@@ -74,9 +74,10 @@ Contains the materal for the training courses organised in the frame of the In S
     <img src="images/drifter3.png" width="500">
     <br>
     <br>
+
 	* grided data:
 		* Salinity from [CORA dataset](./PythonNotebooks/PlatformPlots/Read_CORA_dataset.ipynb)
-<img src="images/cora.png" width="500">      
+		<img src="images/cora.png" width="500">      
 
 - In situ WMS - latest directory (work in progress)
 
@@ -87,7 +88,7 @@ This material has been developed by [Charles Troupin](https://github.com/ctroupi
 Minor contributions from [Paz Rotllan](https://github.com/pazrg).
 
 ## Copyright
-Copyright (c) 2016 ICTS SOCIB - Servei d'observació i predicció costaner de les Illes Balears.
+Copyright (c) 2017 ICTS SOCIB - Servei d'observació i predicció costaner de les Illes Balears.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
