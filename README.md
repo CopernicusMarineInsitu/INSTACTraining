@@ -64,14 +64,16 @@ Contains the materal for the training courses organised in the frame of the In S
     <img src="images/timeSeries2.png" width="300">
     <br>
     <br>
+    
     * trajectories:
         * [Read_drifter_data_1.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_1.ipynb): read a netCDF file containing a surface drifter trajectory.
         * [Read_drifter_data_2.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_2.ipynb): scatter plot using the data from the previous example.
         * [Read_drifter_data_3.ipynb](./PythonNotebooks/PlatformPlots/Read_drifter_data_3.ipynb): creation of a gridded field using the same data.
-    <img align="left" src="images/drifter1.png" width="250">
-    <img align="left" src="images/drifter2.png" width="250">
-    <img src="images/drifter3.png" width="250">
-
+    <img src="images/drifter1.png" width="300">
+    <img src="images/drifter2.png" width="300">
+    <img src="images/drifter3.png" width="500">
+    <br>
+    <br>
 	* grided data:
 		* Salinity from [CORA dataset](./PythonNotebooks/PlatformPlots/Read_CORA_dataset.ipynb)
 <img src="images/cora.png" width="500">      
