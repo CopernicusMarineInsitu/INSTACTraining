@@ -1,7 +1,7 @@
 ## CMEMS INSTAC KEY FACTS
 
 In Situ Marine Copernicus Environmental Monitoring Services (CMEMS INSTAC) comprehends 7 product distribution units:
-<img align="left" src="https://github.com/MarineCopernicusInsitu/INSTACTraining/blob/master/images/regions.png" width="300">
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/regions.png" width="300">
 1. Global through [ftp1.ifremer.fr](wwz.ifremer.fr/)
 2. Artic through [ftp.nodc.no](arctic-roos.org/members/IMR)
 3. Baltic through [cmems.smhi.se](http://www.smhi.se/en) 
@@ -11,7 +11,7 @@ In Situ Marine Copernicus Environmental Monitoring Services (CMEMS INSTAC) compr
 7. Iberian-Biscay-Ireland through [arcas.puertos.es](http://ibidataportal.puertos.es/quid.php)
 
 All those distribution units package [in situ data products](http://cmems-resources.cls.fr/documents/PUM/CMEMS-INS-PUM-013.pdf) in netCDF format and distributes each of them in 3 different directories (*):
-<img align="right" src="https://github.com/MarineCopernicusInsitu/INSTACTraining/blob/master/images/ftp_struture.png" width="400">
+<img align="right" src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/ftp_struture.png" width="400">
 <br>
 <br>
 * history (long series of observations: one netCDF per platform)
@@ -23,7 +23,7 @@ All those distribution units package [in situ data products](http://cmems-resour
 The objective is facilitate the final user access either to large datasets (history), shorten ones (monthly) or just fresh ones (latest); being then up to the user which one targeting (i.e history directory for climate change monitoring; monthlly or latest for model validation etc).
 
 Additional organization is setup for monthly and history directories, where netCDFs are in turn grouped by platform category:
-<img align="left" src="https://github.com/MarineCopernicusInsitu/INSTACTraining/blob/master/images/platforms.png" width="400">
+<img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/platforms.png" width="400">
 
 1. Moorings
 2. Drifters
@@ -56,7 +56,7 @@ Every line of those index files (history_index.txt, monthly_index.txt,latest_ind
         * optional sub-setting code (history)
         * fixed name (latest)    
 
-<span padding-left="20%"><img src="https://github.com/MarineCopernicusInsitu/INSTACTraining/blob/master/images/naming.png" width="500"></span>
+<span padding-left="20%"><img src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/naming.png" width="500"></span>
 
 3. geospatial_lat_min
 4. geospatial_lat_max
@@ -70,4 +70,4 @@ Every line of those index files (history_index.txt, monthly_index.txt,latest_ind
 12. parameters 
 
 For non-interactive in situ dataset download, looping over the lines of the index files is advisable. 
-<div style="margin: 0 auto"><img src="https://github.com/MarineCopernicusInsitu/INSTACTraining/blob/master/images/index_files.png" width="600"></div>
+<div style="margin: 0 auto"><img src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/index_files.png" width="600"></div>
