@@ -1,6 +1,6 @@
 ## CMEMS INSTAC KEY FACTS
 
-In Situ Marine Copernicus Environmental Monitoring Services (CMEMS INSTAC) comprehends 7 product distribution units:
+The In Situ component of the Copernicus Marine Environment Monitoring Services (CMEMS INSTAC) comprehends 7 product distribution units:
 <img align="left" src="https://github.com/CopernicusMarineInsitu/INSTACTraining/blob/master/images/regions.png" width="300">
 1. Global through [ftp1.ifremer.fr](wwz.ifremer.fr/)
 2. Artic through [ftp.nodc.no](arctic-roos.org/members/IMR)
