@@ -12,7 +12,7 @@ For non-interactive download see next PythonNotebooks section.
 [Useful info](./tips/README.md)
 
 ## Presentations
-Presentations used during the previous training sessions.All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc). Particulary useful to check different NetCDF tools are La Spezia and Lisboa presentations.
+Presentations used during the previous training sessions. All presentations include a brief introduction to the CMEMS in situ particularities as CMEMS provider of ON-SITE observations followed by a more detailed presentation of a regional distribution unit (i.e IBI, GLO, MED, BAL, ARC etc). Particulary useful to check different NetCDF tools are La Spezia and Lisboa presentations.
 * [Mediterranean](./Presentations/CMEMS_INSTAC_Med_Training.pdf): La Spezia, 3-4 December 2015  
 * [Iberia, Biscay & Ireland](https://www.youtube.com/watch?v=b7LMgMWgjCM): Lisboa, 10-11 December 2015.
 * [Global](https://www.youtube.com/watch?v=X75BrPQB4YM): Touluse, November 2016
@@ -33,7 +33,7 @@ Contains the materal for the training courses organised in the frame of the In S
 - In situ platform locations examples:
 	* [IndexFile_Folium_Visalization.ipynb](./PythonNotebooks/IndexFilePlots/IndexFile_Folium_Visalization.ipynb): folium markers.
 	* [read_CMEMS_indexfile.ipynb](./PythonNotebooks/IndexFilePlots/read_CMEMS_indexfile.ipynb): latest Mediterranean platforms location.
-	* [plot_positions_latest_global.ipynb](./PythonNotebooks/plot_positions_latest_global.ipynb): latest Global platforms location.
+	* [plot_positions_latest_global.ipynb](./PythonNotebooks/IndexFilePlots/plot_positions_latest_global.ipynb): latest Global platforms location.
 <img align="left" src="images/folium.png" width="300">
 <img src="images/locationsMED.png" width="420">
 <img src="images/global.png" width="600">
