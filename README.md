@@ -17,7 +17,7 @@ Presentations used during the previous training sessions. All presentations incl
 * [Iberia, Biscay & Ireland](https://www.youtube.com/watch?v=b7LMgMWgjCM): Lisboa, 10-11 December 2015.
 * [Global](https://www.youtube.com/watch?v=X75BrPQB4YM): Touluse, November 2016
 * [Artic & Baltic regions](http://www.socib.es/users/protllan/CMEMS/reveal.js-master): Oslo, 1st&2nd June 2017 
-
+* [Marine Week 20017](http://www.socib.es/users/protllan/CMEMS/marineWeek/reveal.js-master/coding/): Brussels, 25-29 September 2017
 
 ## PythonNotebooks
 
@@ -29,6 +29,9 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [index_file_donwload.ipynb](./PythonNotebooks/indexFileNavigation/index_file_download.ipynb): how to download via ftp index files
 	* [index_file_navigation_boundingbox.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_boundingbox.ipynb): how to download via ftp index files and use them to find all platforms contained within a given boundingbox.
 	* [index_file_navigation_platformCategory.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_platformCategory.ipynb): how to download via ftp index files and use them to find all platforms of a given category (moorings, drifters, profilers&gliders, etc, vessels).   
+	* [index_file_navigation_parameter.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_parameter.ipynb): how to download via ftp index files and use them to find all netCDFs containing a given parameter (i.e PSAL).   
+	* [index_file_navigation_by_datatype.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_by_datatype.ipynb): how to download via ftp index files and use them to find netCDFs from a specific data_type (moorings, river_flows; driftings buoys...).   
+
 
 - In situ platform locations examples:
 	* [IndexFile_Folium_Visalization.ipynb](./PythonNotebooks/IndexFilePlots/IndexFile_Folium_Visalization.ipynb): folium markers.
