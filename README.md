@@ -31,6 +31,7 @@ Contains the materal for the training courses organised in the frame of the In S
 	* [index_file_navigation_platformCategory.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_platformCategory.ipynb): how to download via ftp index files and use them to find all platforms of a given category (moorings, drifters, profilers&gliders, etc, vessels).   
 	* [index_file_navigation_parameter.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_parameter.ipynb): how to download via ftp index files and use them to find all netCDFs containing a given parameter (i.e PSAL).   
 	* [index_file_navigation_by_datatype.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_by_datatype.ipynb): how to download via ftp index files and use them to find netCDFs from a specific data_type (moorings, river_flows; driftings buoys...).   
+	* [index_file_navigation_fileUpdate.ipynb](./PythonNotebooks/indexFileNavigation/index_file_navigation_fileUpdate.ipynb): how to download ftp index files and use them to find & download the netCDFs updated in the last X hours.  
 
 
 - In situ platform locations examples:
